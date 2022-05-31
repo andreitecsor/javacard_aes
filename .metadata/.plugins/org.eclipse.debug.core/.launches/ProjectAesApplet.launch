@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.oracle.javacard.jcdk.launch.jcApplet">
+    <stringAttribute key="cap_list" value=""/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/e-payment-project"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ALLOW_TERMINATE" value="false"/>
+    <mapAttribute key="org.eclipse.jdt.launching.CONNECT_MAP">
+        <mapEntry key="hostname" value="localhost"/>
+        <mapEntry key="port" value="8000"/>
+    </mapAttribute>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="javacard.framework.Applet"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="e-payment-project"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_CONNECTOR_ID" value="org.eclipse.jdt.launching.socketAttachConnector"/>
+    <stringAttribute key="script_list" value="C:\Users\andre\Workspace\Projects\ism\javacard-project\e-payment-project\apdu_scripts\cap-e-payment-project.script;C:\Users\andre\Workspace\Projects\ism\javacard-project\e-payment-project\apdu_scripts\create.script;C:\Users\andre\Workspace\Projects\ism\javacard-project\e-payment-project\apdu_scripts\hw-instructions.script;"/>
+</launchConfiguration>

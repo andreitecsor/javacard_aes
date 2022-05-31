@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.oracle.javacard.jcdk.launch.runconfiguration.jcAppletRun">
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="javacard.framework.Applet"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="javacard-project"/>
+    <stringAttribute key="run_script_list" value=""/>
+</launchConfiguration>

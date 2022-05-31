@@ -1,0 +1,25 @@
+#Sample_Device
+#Tue May 31 21:29:15 EEST 2022
+b=false
+e=false
+apdu_mi=false
+apdu_nobanner=false
+description=Platform for running samples
+apdu_noatr=false
+n=false
+apdu_verbose=false
+protocol=2
+s=false
+apdu_k=false
+proxy2cref_port=7019
+t=false
+port=9025
+nobanner=false
+output_filename=
+proxy2ide_port=7020
+no_apdu_console=false
+z=false
+apdu_d=false
+nomeminfo=false
+input_filename=
+e2p_filename=

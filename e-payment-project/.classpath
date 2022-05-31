@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path=".gen">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="Sample_Platform_HOME/lib/api_classic.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:C:\Users\andre\Tools\javacard\docs\api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="Sample_Platform_HOME/lib/api_classic_annotations.jar"/>
+	<classpathentry excluding="java/**/*.java|javacardx/annotations/*.java" kind="src" path="jc_api_debug"/>
+	<classpathentry kind="src" path="jc_installer_debug"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

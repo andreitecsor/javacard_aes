@@ -1,0 +1,12 @@
+// Copyright (c) 1998, 2021, Oracle and/or its affiliates. All rights reserved.
+
+// Applet Selection APDU Script
+//
+// Package:     e-payment-project.hw.ism.javacard.aes
+// Package AID: //aid/A1A2B3C4D5/01
+// Applet:      hw.ism.javacard.aes.ProjectAesApplet
+// Applet AID:  //aid/A1A2B3C4D5/0101
+//
+
+// Select hw.ism.javacard.aes.ProjectAesApplet applet
+0x00 0xA4 0x04 0x00 0x07 0xA1 0xA2 0xB3 0xC4 0xD5 0x01 0x01 0x7F;

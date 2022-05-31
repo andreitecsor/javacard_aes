@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javacard.security.AESKey"/>
+    <fullyQualifiedTypeName name="javacardx.crypto.Cipher"/>
+    <fullyQualifiedTypeName name="javacard.security.KeyBuilder"/>
+</qualifiedTypeNameHistroy>
